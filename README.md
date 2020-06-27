@@ -1,3 +1,5 @@
+<img src="../src/assets/Discord.jpg" width="800px"/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
