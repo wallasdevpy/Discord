@@ -1,6 +1,6 @@
 <img width="300" src="./src/assets/logo-discord.png" align="right">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/67aeee0e-27b0-4213-b18d-381a4450386b/deploy-status)](https://app.netlify.com/sites/discord-cloned/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/67aeee0e-27b0-4213-b18d-381a4450386b/deploy-status)](https://discord-cloned.netlify.app/)
 
 <h2>This project was bootstrapped with<br>Create React App
   <a href="https://github.com/facebook/create-react-app">.</a></h2>
