@@ -1,4 +1,4 @@
-<img src="../src/assets/Discord.jpg" width="800px"/>
+<img whidth="800" src="./src/assets/logo-discord.png" align="center">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
