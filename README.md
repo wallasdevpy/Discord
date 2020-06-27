@@ -1,8 +1,11 @@
-<img whidth="800" src="./src/assets/logo-discord.png" align="center">
+<img width="300" src="./src/assets/logo-discord.png" align="right">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>This project was bootstrapped with<br>Create React App
+  <a href="https://github.com/facebook/create-react-app">.</a></h2>
 
-## Available Scripts
+<img width="800" src="./src/assets/Discord-clone-wallas-sampaio.gif" align="centro">
+<br>
+<h3> Available Scripts </h3>
 
 In the project directory, you can run:
 
